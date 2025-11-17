@@ -1,0 +1,14 @@
+data_path: "data/data.csv"
+
+sets:
+  - 5
+  - 10
+  - 15
+sample_size: 10000
+templates:
+  means:
+    title: "Sampling Distribution of Mean Number of Games Won"
+    x: "Sample Mean of Games Won"
+    y: "Frequency"
+  stds:
+
